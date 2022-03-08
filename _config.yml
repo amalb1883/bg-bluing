@@ -3,3 +3,5 @@ description: Produce Innovative Solutions For the Future in Open Source
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
+  disqus:
+    shortname: iamal
